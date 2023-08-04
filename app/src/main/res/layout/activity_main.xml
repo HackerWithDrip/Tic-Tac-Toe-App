@@ -31,7 +31,7 @@
         android:id="@+id/playerTwo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Player One"
+        android:text="Player Two"
         android:layout_marginTop="10dp"
         android:layout_marginRight="15dp"
         android:textSize="20sp"
